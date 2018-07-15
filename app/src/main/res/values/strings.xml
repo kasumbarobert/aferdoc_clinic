@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Aferdoc Clinic</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Aferdoc Id</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="aferdoc_intro_msg">Use Aferdoc to reach out to your patients. Set up and manage your online clinic with Aferdoc. Receive instant payment for your online consultations on Aferdoc.Build your online reputation and grow your career as you reach out to masses.</string>
+    <string name="title_activity_application">Apply to Join</string>
+    <string-array name="countries">
+        <item>Uganda(256)</item>
+        <item>Kenya (254)</item>
+        <item>Tanzania (257)</item>
+        <item>Nigeria (234)</item>
+    </string-array>
+    <string-array name="codes">
+        <item>+256</item>
+        <item>+254</item>
+        <item>+257</item>
+        <item>+234</item>
+    </string-array>
+    <string name="title_activity_terms_and_conditions">TermsAndConditionsActivity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_web_messages">Web Messages</string>
+    <string name="title_activity_ussdmessages">SMS Messages</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="title_activity_doctors_list">Doctors</string>
+    <string name="title_activity_doctor_profile">Doctor Profile</string>
+    <string name="title_activity_reset_password">Reset Password</string>
+    <string name="title_activity_consults_chat">Consults Doctor</string>
+    <string name="title_activity_prescription">Make Prescription</string>
+    <string name="title_activity_withdraw_feedback">Withdraw Feedback</string>
+    <string name="instruction_note_1">Note:1) After applying, we shall cross-check your name and verify with the relevant bodies after which we shall send you your Aferdoc id.</string>
+    <string name="instruction_note_2">Note:2) After receiving your Aferdoc Id, please reset your password from the login page.</string>
+    <string name="insruction_note_3">Note:3) After you have reset your password and are now logged in, please update your profile via \'Settings\'. Your online clinic will be visible to the public only if you have uploaded your profile picture and set your consultation fee and availability.</string>
+</resources>

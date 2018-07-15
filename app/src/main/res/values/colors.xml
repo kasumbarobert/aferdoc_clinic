@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#3F51B5</color>
+    <color name="navigation_drawer_background">#FFFFFF</color>
+    <color name="colorHighlight">#FF8A65</color>
+    <color name="colorPrimary">#ff0404</color>
+    <color name="colorPrimaryLight">#ff5b38</color>
+    <color name="colorPrimaryDark">#c20000</color>
+    <color name="colorPrimaryText">#000000</color>
+    <color name="text_green">#00FF00</color>
+</resources>
